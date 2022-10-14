@@ -1,4 +1,6 @@
-<h1> Hi, I'm Domenico, a developer from Italy 👨🏽‍💻 </h1>
+<h1> Hi, I'm Domenico, a digital nomad / developer from Italy 👨🏽‍💻 </h1>
+
+<h3>I'm constantly traveling around Europe </h3>
 
 
 ![](https://cdn.dribbble.com/users/2289744/screenshots/7314283/media/df0dde9ed680a9ae91ee63c57aefad9c.gif)
