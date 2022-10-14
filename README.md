@@ -2,10 +2,7 @@
 
 <h3>I'm constantly traveling around Europe </h3>
 
-
-![](https://cdn.dribbble.com/users/2289744/screenshots/7314283/media/df0dde9ed680a9ae91ee63c57aefad9c.gif)
-
-
+<img src="https://cdn.dribbble.com/users/2289744/screenshots/7314283/media/df0dde9ed680a9ae91ee63c57aefad9c.gif" width="100" height="100" />
 
 <!--
 **domenicolorusso/domenicolorusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
