@@ -1,7 +1,7 @@
 <h1> Hi, I'm Domenico, a developer from Italy 👨🏽‍💻 </h1>
 
 
-
+![](https://cdn.dribbble.com/users/2289744/screenshots/7314283/media/df0dde9ed680a9ae91ee63c57aefad9c.gif)
 
 
 
