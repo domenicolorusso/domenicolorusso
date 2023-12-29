@@ -29,25 +29,22 @@
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
     <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://react.dev" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   </a>
   
-  <a href="" target="_blank">
+  <a href="https://nextjs.org" target="_blank">
     <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
   
-   <a href="" target="_blank">
+   <a href="https://expressjs.com" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a>
-   <a href="" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-  </a>
 
-   <a href="https://scikit-learn.org/" target="_blank">
+   <a href="https://www.postgresql.org" target="_blank">
     <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
 
@@ -55,7 +52,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/domenicolorusso" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
