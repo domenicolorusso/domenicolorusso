@@ -142,15 +142,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=domenicolorusso&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
------
-Credits: [Nneji123](https://github.com/Nneji123)
-
-Last Edited on: 4/30/2022
