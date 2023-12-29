@@ -30,10 +30,7 @@
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+    <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge">
   </a>
   <a href="https://www.python.org" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
