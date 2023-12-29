@@ -40,7 +40,23 @@
     <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
   
-   <a href="https://expressjs.com" target="_blank">
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
+  
+  <a href="https://mui.com" target="_blank">
+    <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  </a>
+  
+  <a href="https://tailwindcss.com" target="_blank">
+    <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
+  
+   <a href="https://graphql.org" target="_blank">
+    <img alt="Graph-ql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  </a>
+
+  <a href="https://expressjs.com" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a>
 
