@@ -77,8 +77,3 @@
 </p>
 
 <br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=domenicolorusso&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-
